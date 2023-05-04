@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1974297-d2c5-4988-92af-607d24201958" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e1974297-d2c5-4988-92af-607d24201958" name="Changes" comment="task-7">
+      <change afterPath="$PROJECT_DIR$/src/main/java/animal/entity/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/animal/entity/AnimalHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/animal/entity/Animals.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/animal/entity/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,12 +113,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683216275630</updated>
-      <workItem from="1683216276702" duration="927000" />
+      <workItem from="1683216276702" duration="1284000" />
     </task>
+    <task id="LOCAL-00001" summary="task-7">
+      <created>1683217418507</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683217418507</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task-7" />
+    <option name="LAST_COMMIT_MESSAGE" value="task-7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
