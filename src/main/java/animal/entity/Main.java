@@ -2,11 +2,6 @@ package animal.entity;
 
 import java.util.List;
 
-// Создать новую базу данных с помощью MySQLWorkbench. Создать обычный java-проект и подключить к нему библиотеки JPA и Hibernate.
-// Создать файл с настройками persistence.xml в папке META-INF. И создать
-// класс Animal(int age, String name, boolean tail) с методами get и set, как сущность к нашей таблице.
-// И с помощью jpa сделать crud в классе AnimalHelper.
-
 //CRUD - Create, Read, Update, Delete.
 
 public class Main {
